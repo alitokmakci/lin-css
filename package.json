@@ -1,17 +1,17 @@
 {
-  "name": "gnb-ui",
+  "name": "lin-css",
   "version": "0.2.1-alpha",
   "description": "Modern and beautiful looking component designs",
   "main": "src/index.scss",
   "scripts": {
     "watch": "npm run build-full -- --watch",
-    "build-full": "sass src/index.scss:dist/gnb.css",
-    "build-min": "sass src/index.scss:dist/gnb.min.css --style compressed",
+    "build-full": "sass src/index.scss:dist/lin.css",
+    "build-min": "sass src/index.scss:dist/lin.min.css --style compressed",
     "build": "npm run build-full & npm run build-min"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alitokmakci/gnb-ui.git"
+    "url": "git+https://github.com/alitokmakci/lin-ui.git"
   },
   "keywords": [
     "css",
@@ -27,7 +27,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alitokmakci/gnb-ui/issues"
+    "url": "https://github.com/alitokmakci/lin-ui/issues"
   },
-  "homepage": "https://gnbdesign.online"
+  "homepage": "https://lin-css.vercel.app"
 }

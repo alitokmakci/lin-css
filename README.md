@@ -1,6 +1,6 @@
-![downloads](https://img.shields.io/npm/dt/gnb-ui) ![license](https://img.shields.io/npm/l/gnb-ui) ![issues](https://img.shields.io/github/issues/alitokmakci/gnb-ui) ![version](https://img.shields.io/github/package-json/v/alitokmakci/gnb-ui) [![](https://data.jsdelivr.com/v1/package/npm/gnb-ui/badge)](https://www.jsdelivr.com/package/npm/gnb-ui)
+# [LIN CSS](https://lin-css.vercel.app)
 
-# [GNB UI](https://gnbdesign.online)
+![downloads](https://img.shields.io/npm/dt/lin-ui) ![license](https://img.shields.io/npm/l/lin-ui) ![issues](https://img.shields.io/github/issues/alitokmakci/lin-ui) ![version](https://img.shields.io/github/package-json/v/alitokmakci/lin-ui) [![](https://data.jsdelivr.com/v1/package/npm/lin-ui/badge)](https://www.jsdelivr.com/package/npm/lin-ui)
 
 ![banner](https://i.ibb.co/HVHX3dB/GNBUI-Banner.png)
 
@@ -11,7 +11,7 @@
 ### NPM
 
 ```sh
-npm install gnb-ui
+npm install lin-css
 ```
 
 **or**
@@ -19,17 +19,17 @@ npm install gnb-ui
 ### Yarn
 
 ```sh
-yarn add gnb-ui
+yarn add lin-css
 ```
 
 ### CDN
 
-[https://www.jsdelivr.com/package/npm/gnb-ui](https://www.jsdelivr.com/package/npm/gnb-ui?path=dist)
+[https://www.jsdelivr.com/package/npm/lin-css](https://www.jsdelivr.com/package/npm/lin-css?path=dist)
 
 ### NO JAVASCRIPT INCLUDED
 
-**GNB UI** is a pure CSS library. It doesn't include any JavaScript. Example usage for javascript given in the documentation.
+**LIN CSS** is a pure CSS library. It doesn't include any JavaScript. Example usage for javascript given in the documentation.
 
 ## Documentation
 
-Documentation is under development right now. But you can find the documentation here: https://gnbdesign.online/
+Documentation is under development right now. But you can find the documentation here: https://lin-css.vercel.app
