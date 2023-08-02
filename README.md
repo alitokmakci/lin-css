@@ -1,6 +1,6 @@
 # [LIN CSS](https://lin-css.vercel.app)
 
-![downloads](https://img.shields.io/npm/dt/lin-ui) ![license](https://img.shields.io/npm/l/lin-ui) ![issues](https://img.shields.io/github/issues/alitokmakci/lin-ui) ![version](https://img.shields.io/github/package-json/v/alitokmakci/lin-ui) [![](https://data.jsdelivr.com/v1/package/npm/lin-ui/badge)](https://www.jsdelivr.com/package/npm/lin-ui)
+![downloads](https://img.shields.io/npm/dt/lin-css) ![license](https://img.shields.io/npm/l/lin-css) ![issues](https://img.shields.io/github/issues/alitokmakci/lin-css) ![version](https://img.shields.io/github/package-json/v/alitokmakci/lin-css) [![](https://data.jsdelivr.com/v1/package/npm/lin-css/badge)](https://www.jsdelivr.com/package/npm/lin-css)
 
 ## Status: Beta
 
